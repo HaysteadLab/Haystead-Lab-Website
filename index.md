@@ -3,7 +3,7 @@
 
 # Haystead Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+Pioneering Precision Agents for Chaperone Protien Expressive Diseases
 
 {% include section.html %}
 
