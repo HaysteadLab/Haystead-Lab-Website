@@ -1,47 +1,39 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: eHSP90 Blebbing Dynamics
+  subtitle: Live-cell confocal imaging in aggressive cancer models
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Investigates diagnostic probes synthesized in the Haystead Lab using live-cell confocal imaging, with a focus on probe infiltration in aggressive cancer cells, changes in blebbing patterns, and potential links to septin interaction.
   tags:
-    - resource
+    - imaging
+    - oncology
+    - theranostics
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Cancer Story PET Theranostics
+  subtitle: Targeting extracellular HSP90 in aggressive cancers
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: As cancer cells become more aggressive, extracellular HSP90 accumulates at the cell membrane. This project leverages eHSP90 as a target for novel chelate-based theranostic and PET imaging agents.
   tags:
-    - resource
+    - pet
+    - oncology
+    - theranostics
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Infection Story PET
+  subtitle: PET-based tracking for infectious disease applications
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Develops and evaluates PET-compatible probes to assess uptake behavior and improve imaging-guided assessment in infectious disease models.
   tags:
-    - resource
-    - publication
+    - pet
+    - infection
+    - imaging
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: TOPAS Dosimetry Modeling
+  subtitle: Monte Carlo simulation for therapy planning
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Uses TOPAS-based Monte Carlo workflows to model radiation transport, dose distributions, and treatment-relevant interactions in support of advanced radiotherapy and theranostic development.
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - topas
+    - monte-carlo
+    - simulation
