@@ -1,47 +1,43 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Infection-Targeted Molecular PET Imaging
+  subtitle: Precision Imaging of Bacterial and Viral Pathogens
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/bb.jpeg
+  description: >
+    This project focuses on developing nuclear molecular imaging drugs for diagnostic imaging and thernaostics that selectively accumulate in infectious diseases within the body.
+    By targeting heat shock proteins of the infection, 
+    we aim to differentiate inflammation and healthy tissue from active infection using positron emission tomography (PET) imaging.
+    These technologies hold promise for imaging and treating infectious diseases such as Lymes disease with precision.
+  tags: [Infectious Disease, PET, Molecular Imaging]
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: eHSP90-Targeted Theranostic PET
+  subtitle: Cancer-Specific Radiolabeled Probe Development
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/tumor.jpeg
+  description: >
+    We develop radiolabeled small-molecule probes targeting extracellular HSP90 (eHSP90) to enable highly selective
+    cancer imaging and therapeutic intervention. By leveraging chelated radioactive isotopes,
+    these probes allow tumor-specific uptake, real-time PET visualization, and targeted radiation delivery.
+    This platform bridges molecular diagnostics and therapeutic radiopharmaceutical design.
+  tags: [PET Imaging, Cancer Biology, Radiochemistry]
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: Probe-Driven Blebbing Dynamics
+  subtitle: Cell Membrane Signaling & Therapeutic Targeting
+  group: featured
+  image: images/bleb.jpg
+  description: >
+    This project investigates membrane blebbing as a dynamic indicator of cellular stress and therapeutic response.
+    Using molecular probes and advanced microscopy, we characterize how drug-induced perturbations alter membrane mechanics,
+    signaling cascades, and intracellular trafficking. These studies provide insight into early-stage apoptotic signaling
+    and potential precision targeting strategies in cancer cells.
+  tags: [Cell Biology, Imaging, Drug Discovery]
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: TOPAS Monte Carlo Dosimetry & Simulation
+  subtitle: Computational Modeling of Radiopharmaceutical Microdosimetry
+  group: featured
+  image: images/projects/topas.jpg
+  description: >
+    Using TOPAS-nBio Monte Carlo simulation frameworks, we aim to model and validate the current Haystead lab projects on a XXXX.
+    From radiolabeled small-molecule therapeutics to Cherenkov and light activation during radiotherapy. These simulations quantify radiation dose distribution
+    at the nucleus, mitochondria, and membrane level to optimize probe design and maximize therapeutic index across platforms such as laser light, Chernekov generated radiotherapy, and nuclear medicine.
+    This computational platform integrates imaging, chemistry, and radiobiology in a precise way.
+  tags: [Monte Carlo Simulation, Radiophysics, Computational Modeling]

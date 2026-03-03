@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The landscape of radiotherapeutic and molecular imaging strategies is rapidly evolving, yet translating biological insight into precise diagnostic and therapeutic tools remains complex. Our laboratory develops small-molecule probes and radiolabeled platforms that integrate chemical biology, quantitative imaging, and computational modeling to better understand and treat disease. We design approaches that are mechanistically rigorous, broadly applicable, and grounded in reproducible science to advance impactful translational research.
+
 
 {% include section.html %}
 

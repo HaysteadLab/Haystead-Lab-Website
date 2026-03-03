@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projects reflect a commitment to maintaining a diverse and rigorous research portfolio spanning radiopharmaceutical development, molecular imaging, computational modeling, and preclinical validation. By pursuing complementary lines of investigation, we strengthen our ability to translate mechanistic discoveries into impactful diagnostic and therapeutic strategies. Across all initiatives, we uphold the highest standards of scientific rigor and strive for excellence in both innovation and execution.
 
 {% include tags.html tags="publication, resource, website" %}
 
