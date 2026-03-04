@@ -1,265 +1,763 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1172/jci.insight.165358
+  title: Pharmacological inhibition of TAK1 prevents and induces regression of experimental
+    organ fibrosis
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Swarna Bale
+  - Priyanka Verma
+  - Bharath Yalavarthi
+  - Scott Arthur Scarneo
+  - Philip Hughes
+  - M. Asif Amin
+  - Pei-Suen Tsou
+  - Dinesh Khanna
+  - Timothy A.J. Haystead
+  - Swati Bhattacharyya
+  - John Varga
+  publisher: JCI Insight
+  date: '2023-07-24'
+  link: https://doi.org/hbq6hh
+  orcid: 0000-0001-7274-1519
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1007/s10620-025-09505-x
+  title: An Inhibitor of Death-Associated Protein Kinase 3 (DAPK3) Disrupts Hippo
+    Signaling and Intestinal Epithelial Regeneration in Murine DSS-Induced Colitis
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Huey-Miin Chen
+  - David A. Carlson
+  - Timothy A. J. Haystead
+  - Justin A. MacDonald
+  publisher: Digestive Diseases and Sciences
+  date: '2025-11-07'
+  link: https://doi.org/hbq9p6
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.2147/JPR.S451409
+  title: "Transforming Growth Factor-\u03B2-Activated Kinase 1 (TAK1) Alleviates Inflammatory\
+    \ Joint Pain in Osteoarthritis and Gouty Arthritis Preclinical Models"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Robert Freeze
+  - Philip Hughes
+  - Timothy Haystead
+  - Scott Scarneo
+  publisher: Journal of Pain Research
+  date: '2024-06-01'
+  link: https://doi.org/hbq9p7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41419-024-06654-1
+  title: TAK1 inhibition leads to RIPK1-dependent apoptosis in immune-activated cancers
+  authors:
+  - Helene Damhofer
+  - "T\xFClin Tatar"
+  - Benjamin Southgate
+  - Scott Scarneo
+  - Karl Agger
+  - Daria Shlyueva
+  - Lene Uhrbom
+  - Gillian M. Morrison
+  - Philip F. Hughes
+  - Timothy Haystead
+  - Steven M. Pollard
+  - Kristian Helin
+  publisher: Cell Death &amp; Disease
+  date: '2024-04-17'
+  link: https://doi.org/gtsxjt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.03.06.583600
+  title: Cooperative involvement of zipper-interacting protein kinase (ZIPK) and the
+    dual-specificity cell-division cycle 14A phosphatase (CDC14A) in vascular smooth
+    muscle cell migration
+  authors:
+  - Abdulhameed Al-Ghabkari
+  - David A. Carlson
+  - Timothy A. J. Haystead
+  - Justin A. MacDonald
+  publisher: openRxiv
+  date: '2024-03-09'
+  link: https://doi.org/hbq9p8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2024.02.008
+  title: Selective targeting of Plasmodium falciparum Hsp90 disrupts the 26S proteasome
+  authors:
+  - Christopher R. Mansfield
+  - Baiyi Quan
+  - Michael E. Chirgwin
+  - Benjamin Eduful
+  - Philip F. Hughes
+  - "Ga\xEBlle Neveu"
+  - Kayla Sylvester
+  - Daniel H. Ryan
+  - "Bj\xF6rn F.C. Kafsack"
+  - Timothy A.J. Haystead
+  - James W. Leahy
+  - Michael C. Fitzgerald
+  - Emily R. Derbyshire
+  publisher: Cell Chemical Biology
+  date: '2024-04-01'
+  link: https://doi.org/hbq9p9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2023.10.004
+  title: Targeting Borrelia burgdorferi HtpG with a berserker molecule, a strategy
+    for anti-microbial development
+  authors:
+  - Dave L. Carlson
+  - Mark Kowalewski
+  - Khaldon Bodoor
+  - Adam D. Lietzan
+  - Philip F. Hughes
+  - David Gooden
+  - David R. Loiselle
+  - David Alcorta
+  - Zoey Dingman
+  - Elizabeth A. Mueller
+  - Irnov Irnov
+  - Shannon Modla
+  - Tim Chaya
+  - Jeffrey Caplan
+  - Monica Embers
+  - Jennifer C. Miller
+  - Christine Jacobs-Wagner
+  - Matthew R. Redinbo
+  - Neil Spector
+  - Timothy A.J. Haystead
+  publisher: Cell Chemical Biology
+  date: '2024-03-01'
+  link: https://doi.org/gs3g6p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-023-49077-2
+  title: Investigation of SARS-CoV-2 individual proteins reveals the in vitro and
+    in vivo immunogenicity of membrane protein
+  authors:
+  - Timothy Haystead
+  - Eric Lee
+  - Kirstin Cho
+  - Gail Gullickson
+  - Philip Hughes
+  - Greta Krafsur
+  - Robert Freeze
+  - Scott Scarneo
+  publisher: Scientific Reports
+  date: '2023-12-18'
+  link: https://doi.org/hbq9qb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-022-22788-8
+  title: Expression of membrane Hsp90 is a molecular signature of T cell activation
+  authors:
+  - Scott A. Scarneo
+  - Aaron P. Smith
+  - Jacob Favret
+  - "Robert O\u2019Connell"
+  - Joy Pickeral
+  - Kelly W. Yang
+  - Guido Ferrari
+  - David R. Loiselle
+  - Philip F. Hughes
+  - Manjusha M. Kulkarni
+  - Madhusudhana Gargesha
+  - Bryan Scott
+  - Debashish Roy
+  - Barton F. Haynes
+  - Jesse J. Kwiek
+  - Timothy A. J. Haystead
+  publisher: Scientific Reports
+  date: '2022-10-27'
+  link: https://doi.org/hbq9qc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acschembio.1c00788
+  title: Development and Efficacy of an Orally Bioavailable Selective TAK1 Inhibitor
+    for the Treatment of Inflammatory Arthritis
+  authors:
+  - Scott Scarneo
+  - Philip Hughes
+  - Robert Freeze
+  - Kelly Yang
+  - Juliane Totzke
+  - Timothy Haystead
+  publisher: ACS Chemical Biology
+  date: '2022-03-02'
+  link: https://doi.org/hbq9qd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1097/j.pain.0000000000002511
+  title: Expression of ectopic heat shock protein 90 in male and female primary afferent
+    nociceptors regulates inflammatory pain
+  authors:
+  - Yaomin Wang
+  - Scott A. Scarneo
+  - Shin Hyung Kim
+  - Xin Zhang
+  - Jiegen Chen
+  - Kelly W. Yang
+  - Philip Hughes
+  - Timothy Haystead
+  - Andrea G. Nackley
+  publisher: Pain
+  date: '2021-10-12'
+  link: https://doi.org/hbq9qf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.isci.2021.103412
+  title: Oral Hsp90 inhibitor SNX-5422 attenuates SARS-CoV-2 replication and dampens
+    inflammation in airway cells
+  authors:
+  - Ria Goswami
+  - Veronica S. Russell
+  - Joshua J. Tu
+  - Charlene Thomas
+  - Philip Hughes
+  - Francine Kelly
+  - Stephanie N. Langel
+  - Justin Steppe
+  - Scott M. Palmer
+  - Timothy Haystead
+  - Maria Blasi
+  - Sallie R. Permar
+  publisher: iScience
+  date: '2021-12-01'
+  link: https://doi.org/gsw2cg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/BOE.418818
+  title: Understanding the sources of errors in ex vivo Hsp90 molecular imaging for
+    rapid-on-site breast cancer diagnosis
+  authors:
+  - Roujia Wang
+  - Daniel A. Alvarez
+  - Brian T. Crouch
+  - Aditi Pilani
+  - Christopher Lam
+  - Caigang Zhu
+  - Philip Hughes
+  - David Katz
+  - Timothy Haystead
+  - Nirmala Ramanujam
+  publisher: Biomedical Optics Express
+  date: '2021-03-23'
+  link: https://doi.org/hbq9qg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1098/rsob.200099
+  title: 'TAK1: a potent tumour necrosis factor inhibitor for the treatment of inflammatory
+    diseases'
+  authors:
+  - Juliane Totzke
+  - Scott A. Scarneo
+  - Kelly W. Yang
+  - Timothy A. J. Haystead
+  publisher: Open Biology
+  date: '2020-09-01'
+  link: https://doi.org/g967x3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s42003-020-0956-7
+  title: Heat shock protein 90-targeted photodynamic therapy enables treatment of
+    subcutaneous and visceral tumors
+  authors:
+  - Kensuke Kaneko
+  - Takuya Osada
+  - Michael A. Morse
+  - William R. Gwin
+  - Joshua D. Ginzel
+  - Joshua C. Snyder
+  - Xiao-Yi Yang
+  - Cong-Xiao Liu
+  - "M\xE1rcio A. Diniz"
+  - Khaldon Bodoor
+  - Philip F. Hughes
+  - Timothy AJ. Haystead
+  - H. Kim Lyerly
+  publisher: Communications Biology
+  date: '2020-05-08'
+  link: https://doi.org/hbq9qh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.RA119.011857
+  title: "A highly selective inhibitor of interleukin-1 receptor\u2013associated kinases\
+    \ 1/4 (IRAK-1/4) delineates the distinct signaling roles of IRAK-1/4 and the TAK1\
+    \ kinase"
+  authors:
+  - Scott A. Scarneo
+  - Philip F. Hughes
+  - Kelly W. Yang
+  - David A. Carlson
+  - Deepak Gurbani
+  - Kenneth D. Westover
+  - Timothy A.J. Haystead
+  publisher: Journal of Biological Chemistry
+  date: '2020-02-01'
+  link: https://doi.org/ggmzq6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13075-019-2073-x
+  title: Pharmacological inhibition of TAK1, with the selective inhibitor takinib,
+    alleviates clinical manifestation of arthritis in CIA mice
+  authors:
+  - Scott A. Scarneo
+  - Liesl S. Eibschutz
+  - Phillip J. Bendele
+  - Kelly W. Yang
+  - Juliane Totzke
+  - Philip Hughes
+  - David A. Fox
+  - Timothy A. J. Haystead
+  publisher: Arthritis Research &amp; Therapy
+  date: '2019-12-01'
+  link: https://doi.org/hbq9qj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-019-40252-y
+  title: Exploiting heat shock protein expression to develop a non-invasive diagnostic
+    tool for breast cancer
+  authors:
+  - Brian T. Crouch
+  - Jennifer Gallagher
+  - Roujia Wang
+  - Joy Duer
+  - Allison Hall
+  - Mary Scott Soo
+  - Philip Hughes
+  - Timothy Haystead
+  - Nirmala Ramanujam
+  publisher: Scientific Reports
+  date: '2019-03-05'
+  link: https://doi.org/hbq9qk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12192-018-0877-2
+  title: Methods to validate Hsp90 inhibitor specificity, to identify off-target effects,
+    and to rethink approaches for further clinical development
+  authors:
+  - Len Neckers
+  - Brian Blagg
+  - Timothy Haystead
+  - Jane B. Trepel
+  - Luke Whitesell
+  - Didier Picard
+  publisher: Cell Stress and Chaperones
+  date: '2018-07-01'
+  link: https://doi.org/gdw49f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/AAC.01799-17
+  title: Identification of Hsp90 Inhibitors with Anti-Plasmodium Activity
+  authors:
+  - Dora Posfai
+  - Amber L. Eubanks
+  - Allison I. Keim
+  - Kuan-Yi Lu
+  - Grace Z. Wang
+  - Philip F. Hughes
+  - Nobutaka Kato
+  - Timothy A. Haystead
+  - Emily R. Derbyshire
+  publisher: Antimicrobial Agents and Chemotherapy
+  date: '2018-04-01'
+  link: https://doi.org/gdbrdh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-4939-7477-1_6
+  title: Fluorescent-Linked Enzyme Chemoproteomic Strategy (FLECS) for Identifying
+    HSP70 Inhibitors
+  authors:
+  - T. A. J. Haystead
+  publisher: Methods in Molecular Biology
+  date: '2017-11-26'
+  link: https://doi.org/hbq9qm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-017-14226-x
+  title: Near-simultaneous intravital microscopy of glucose uptake and mitochondrial
+    membrane potential, key endpoints that reflect major metabolic axes in cancer
+  authors:
+  - Caigang Zhu
+  - Amy F. Martinez
+  - Hannah L. Martin
+  - Martin Li
+  - Brian T. Crouch
+  - David A. Carlson
+  - Timothy A. J. Haystead
+  - Nimmi Ramanujam
+  publisher: Scientific Reports
+  date: '2017-10-23'
+  link: https://doi.org/gchcz4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/1078-0432.CCR-17-1453
+  title: "<i>In Vivo</i>\n                    Detection of HSP90 Identifies Breast\
+    \ Cancers with Aggressive Behavior"
+  authors:
+  - Takuya Osada
+  - Kensuke Kaneko
+  - William R. Gwin
+  - Michael A. Morse
+  - Amy Hobeika
+  - Brian W. Pogue
+  - Zachary C. Hartman
+  - Philip F. Hughes
+  - Timothy Haystead
+  - H. Kim Lyerly
+  publisher: Clinical Cancer Research
+  date: '2017-12-14'
+  link: https://doi.org/gcqr66
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12977-017-0368-z
+  title: Cellular fatty acid synthase is required for late stages of HIV-1 replication
+  authors:
+  - Manjusha M. Kulkarni
+  - Annette N. Ratcliff
+  - Menakshi Bhat
+  - Yazan Alwarawrah
+  - Philip Hughes
+  - Jesus Arcos
+  - David Loiselle
+  - Jordi B. Torrelles
+  - Nicholas T. Funderburg
+  - Timothy A. Haystead
+  - Jesse J. Kwiek
+  publisher: Retrovirology
+  date: '2017-09-29'
+  link: https://doi.org/gb2tpf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acschembio.7b00006
+  title: A Fluorescent Hsp90 Probe Demonstrates the Unique Association between Extracellular
+    Hsp90 and Malignancy <i>in Vivo</i>
+  authors:
+  - Lauren B. Crowe
+  - Philip F. Hughes
+  - David A. Alcorta
+  - Takuya Osada
+  - Aaron P. Smith
+  - Juliane Totzke
+  - David R. Loiselle
+  - Isaac D. Lutz
+  - Madhusudhana Gargesha
+  - Debasish Roy
+  - Jose Roques
+  - David Darr
+  - H. Kim Lyerly
+  - Neil L. Spector
+  - Timothy A.J. Haystead
+  publisher: ACS Chemical Biology
+  date: '2017-02-23'
+  link: https://doi.org/f9rjpw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2016.04.011
+  title: Fasnall, a Selective FASN Inhibitor, Shows Potent Anti-tumor Activity in
+    the MMTV-Neu Model of HER2 + Breast Cancer
+  authors:
+  - Yazan Alwarawrah
+  - Philip Hughes
+  - David Loiselle
+  - "David\_A. Carlson"
+  - "David\_B. Darr"
+  - "Jamie\_L. Jordan"
+  - Jessie Xiong
+  - "Lucas\_M. Hunter"
+  - "Laura\_G. Dubois"
+  - "J.\_Will Thompson"
+  - "Manjusha\_M. Kulkarni"
+  - "Annette\_N. Ratcliff"
+  - "Jesse\_J. Kwiek"
+  - "Timothy\_A.J. Haystead"
+  publisher: Cell Chemical Biology
+  date: '2016-06-01'
+  link: https://doi.org/f8xjwc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.antiviral.2016.03.017
+  title: An inducible heat shock protein 70 small molecule inhibitor demonstrates
+    anti-dengue virus activity, validating Hsp70 as a host antiviral target
+  authors:
+  - Matthew K. Howe
+  - Brittany L. Speer
+  - Philip F. Hughes
+  - David R. Loiselle
+  - Subhash Vasudevan
+  - Timothy A.J. Haystead
+  publisher: Antiviral Research
+  date: '2016-06-01'
+  link: https://doi.org/f8pj7x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.M115.658120
+  title: Pregnancy and Smoothelin-like Protein 1 (SMTNL1) Deletion Promote the Switching
+    of Skeletal Muscle to a Glycolytic Phenotype in Human and Mice
+  authors:
+  - Beata Lontay
+  - Khaldon Bodoor
+  - Adrienn Sipos
+  - Douglas H. Weitzel
+  - David Loiselle
+  - Rachid Safi
+  - Donghai Zheng
+  - James Devente
+  - Robert C. Hickner
+  - Donald P. McDonnell
+  - Thomas Ribar
+  - Timothy A. Haystead
+  publisher: Journal of Biological Chemistry
+  date: '2015-07-01'
+  link: https://doi.org/f7kznv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2014.10.016
+  title: Identification of an Allosteric Small-Molecule Inhibitor Selective for the
+    Inducible Form of Heat Shock Protein 70
+  authors:
+  - "Matthew\_K. Howe"
+  - Khaldon Bodoor
+  - "David\_A. Carlson"
+  - "Philip\_F. Hughes"
+  - Yazan Alwarawrah
+  - "David\_R. Loiselle"
+  - "Alex\_M. Jaeger"
+  - "David\_B. Darr"
+  - "Jamie\_L. Jordan"
+  - "Lucas\_M. Hunter"
+  - "Eileen\_T. Molzberger"
+  - "Theodore\_A. Gobillot"
+  - "Dennis\_J. Thiele"
+  - "Jeffrey\_L. Brodsky"
+  - "Neil\_L. Spector"
+  - "Timothy\_A.J. Haystead"
+  publisher: Chemistry &amp; Biology
+  date: '2014-12-01'
+  link: https://doi.org/f6xs86
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/cb400407c
+  title: Fluorescence Linked Enzyme Chemoproteomic Strategy for Discovery of a Potent
+    and Selective DAPK1 and ZIPK Inhibitor
+  authors:
+  - David A. Carlson
+  - Aaron S. Franke
+  - Douglas H. Weitzel
+  - Brittany L. Speer
+  - Philip F. Hughes
+  - Laura Hagerty
+  - Christopher N. Fortner
+  - James M. Veal
+  - Thomas E. Barta
+  - Bartosz J. Zieba
+  - Avril V. Somlyo
+  - Cindy Sutherland
+  - Jing Ti Deng
+  - Michael P. Walsh
+  - Justin A. MacDonald
+  - Timothy A. J. Haystead
+  publisher: ACS Chemical Biology
+  date: '2013-10-17'
+  link: https://doi.org/f5msqr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2013.08.004
+  title: Optical and Radioiodinated Tethered Hsp90 Inhibitors Reveal Selective Internalization
+    of Ectopic Hsp90 in Malignant Breast Tumor Cells
+  authors:
+  - "Jared\_J. Barrott"
+  - "Philip\_F. Hughes"
+  - Takuya Osada
+  - Xiao-Yi Yang
+  - "Zachary\_C. Hartman"
+  - "David\_R. Loiselle"
+  - "Neil\_L. Spector"
+  - Len Neckers
+  - Narasimhan Rajaram
+  - Fangyao Hu
+  - Nimmi Ramanujam
+  - Ganesan Vaidyanathan
+  - "Michael\_R. Zalutsky"
+  - "H.\_Kim Lyerly"
+  - "Timothy\_A. Haystead"
+  publisher: Chemistry &amp; Biology
+  date: '2013-09-01'
+  link: https://doi.org/f5q6k8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/febs.12147
+  title: Hsp90, an unlikely ally in the war on cancer
+  authors:
+  - Jared J. Barrott
+  - Timothy A. J. Haystead
+  publisher: The FEBS Journal
+  date: '2013-02-24'
+  link: https://doi.org/f4p7vx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bmc.2012.03.043
+  title: A highly selective Hsp90 affinity chromatography resin with a cleavable linker
+  authors:
+  - Philip F. Hughes
+  - Jared J. Barrott
+  - David A. Carlson
+  - David R. Loiselle
+  - Brittany L. Speer
+  - Khaldon Bodoor
+  - Lauretta A. Rund
+  - Timothy A.J. Haystead
+  publisher: Bioorganic &amp; Medicinal Chemistry
+  date: '2012-05-01'
+  link: https://doi.org/f3xn5v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/bcr3168
+  title: Amplification and high-level expression of heat shock protein 90 marks aggressive
+    phenotypes of human epidermal growth factor receptor 2 negative breast cancer
+  authors:
+  - Qing Cheng
+  - Jeffrey T Chang
+  - Joseph Geradts
+  - Leonard M Neckers
+  - Timothy Haystead
+  - Neil L Spector
+  - H Kim Lyerly
+  publisher: Breast Cancer Research
+  date: '2012-04-17'
+  link: https://doi.org/f9959z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.M111.270397
+  title: Smoothelin-like 1 Protein Is a Bifunctional Regulator of the Progesterone
+    Receptor during Pregnancy
+  authors:
+  - Khaldon Bodoor
+  - Beata Lontay
+  - Rachid Safi
+  - Douglas H. Weitzel
+  - David Loiselle
+  - Zhengzheng Wei
+  - Szabolcs Lengyel
+  - Donald P. McDonnell
+  - Timothy A. Haystead
+  publisher: Journal of Biological Chemistry
+  date: '2011-09-01'
+  link: https://doi.org/brcvmn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cellsig.2010.09.016
+  title: Phosphorylation-dependent control of ZIPK nuclear import is species specific
+  authors:
+  - Douglas H. Weitzel
+  - Jenica Chambers
+  - Timothy A.J. Haystead
+  publisher: Cellular Signalling
+  date: '2011-01-01'
+  link: https://doi.org/bxc5vp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2010.04.015
+  title: 'Application of Chemoproteomics to Drug Discovery: Identification of a Clinical
+    Candidate Targeting Hsp90'
+  authors:
+  - Patrick Fadden
+  - Kenneth H. Huang
+  - James M. Veal
+  - Paul M. Steed
+  - Amy F. Barabasz
+  - Briana Foley
+  - Mei Hu
+  - Jeffrey M. Partridge
+  - John Rice
+  - Anisa Scott
+  - Laura G. Dubois
+  - Tiffany A. Freed
+  - Melanie A. Rehder Silinski
+  - Thomas E. Barta
+  - Philip F. Hughes
+  - Andy Ommen
+  - Wei Ma
+  - Emilie D. Smith
+  - Angela Woodward Spangenberg
+  - Jeron Eaves
+  - Gunnar J. Hanson
+  - Lindsay Hinkley
+  - Matthew Jenks
+  - Meredith Lewis
+  - James Otto
+  - Gijsbertus J. Pronk
+  - Katleen Verleysen
+  - Timothy A. Haystead
+  - Steven E. Hall
+  publisher: Chemistry &amp; Biology
+  date: '2010-07-01'
+  link: https://doi.org/ddk837
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.M110.143966
+  title: Smoothelin-like 1 Protein Regulates Myosin Phosphatase-targeting Subunit
+    1 Expression during Sexual Development and Pregnancy*
+  authors:
+  - Beata Lontay
+  - Khaldon Bodoor
+  - Douglas H. Weitzel
+  - David Loiselle
+  - Christopher Fortner
+  - Szabolcs Lengyel
+  - Donghai Zheng
+  - James Devente
+  - Robert Hickner
+  - TimothyA.J. Haystead
+  publisher: Journal of Biological Chemistry
+  date: '2010-09-01'
+  link: https://doi.org/b6tq9n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/hyb.2007.0553
+  title: Murine CD7 Shares Antigenic Cross-Reactivity with HSP-60
+  authors:
+  - Brandon A. Howard
+  - Gregory D. Sempowski
+  - Richard M. Scearce
+  - Hua-Xin Liao
+  - David M. Lee
+  - Gordon K. Lam
+  - Haiyen Chen
+  - Patrick Fadden
+  - Timothy Haystead
+  - Barton F. Haynes
+  publisher: Hybridoma
+  date: '2008-04-01'
+  link: https://doi.org/fvf2xz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.M708628200
+  title: Deletion of the Protein Kinase A/Protein Kinase G Target SMTNL1 Promotes
+    an Exercise-adapted Phenotype in Vascular Smooth Muscle
+  authors:
+  - Anne A. Wooldridge
+  - Christopher N. Fortner
+  - Beata Lontay
+  - Takayuki Akimoto
+  - Ronald L. Neppl
+  - Carie Facemire
+  - Michael B. Datto
+  - Ashley Kwon
+  - Everett McCook
+  - Ping Li
+  - Shiliang Wang
+  - Randy J. Thresher
+  - Sara E. Miller
+  - Jean-Claude Perriard
+  - Timothy P. Gavin
+  - Robert C. Hickner
+  - Thomas M. Coffman
+  - Avril V. Somlyo
+  - Zhen Yan
+  - Timothy A.J. Haystead
+  publisher: Journal of Biological Chemistry
+  date: '2008-04-01'
+  link: https://doi.org/c4khp6
   plugin: sources.py
   file: sources.yaml
