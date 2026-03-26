@@ -76,7 +76,7 @@ We are a team of enthusiasitc researchers uniting faculty, postdoctoral scholars
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/micro.jpg"
   link="team"
   title="Our Team"
   text=text

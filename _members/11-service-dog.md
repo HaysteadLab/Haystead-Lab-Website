@@ -1,6 +1,6 @@
 ---
 name: Service Dog Data
-image: images/photo.jpg
+image: images/team/doggo.png
 role: Honorary Lab Member
 
 

@@ -22,9 +22,14 @@ We work with a wide range of outstanding groups from around the world, and we’
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/chem.jpg" %}
+{% include figure.html image="images/data2.jpg" %}
+{% include figure.html image="images/vic.jpg" %}
+{% include figure.html image="images/tay.jpg" %}
+{% include figure.html image="images/tim.jpg" %}
+{% include figure.html image="images/kesh.jpg" %}
+{% include figure.html image="images/dave.jpg" %}
+{% include figure.html image="images/lau.jpg" %}
 
 {% endcapture %}
 

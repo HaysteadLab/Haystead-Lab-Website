@@ -1,6 +1,6 @@
 ---
 name: Tanya Sachdev
-image: images/photo.jpg
+image: images/team/tanya.png
 role: Undergraduate Student
 description: Student of Biology and Global Health
 links:

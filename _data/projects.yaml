@@ -1,7 +1,7 @@
 - title: Infection-Targeted Molecular PET Imaging
   subtitle: Precision Imaging of Bacterial and Viral Pathogens
   group: featured
-  image: images/bb.jpeg
+  image: images/bug.png
   description: >
     This project focuses on developing nuclear molecular imaging drugs for diagnostic imaging and thernaostics that selectively accumulate in infectious diseases within the body.
     By targeting heat shock proteins of the infection, 
@@ -12,7 +12,7 @@
 - title: eHSP90-Targeted Theranostic PET
   subtitle: Cancer-Specific Radiolabeled Probe Development
   group: featured
-  image: images/tumor.jpeg
+  image: images/tuma.png
   description: >
     We develop radiolabeled small-molecule probes targeting extracellular HSP90 (eHSP90) to enable highly selective
     cancer imaging and therapeutic intervention. By leveraging chelated radioactive isotopes,
