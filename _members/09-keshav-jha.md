@@ -1,6 +1,6 @@
 ---
 name: Keshav Jha
-image: images/photo.jpg
+image: images/team/kj.png
 role: Undergraduate Student
 description: Student of Biology and Computer Science
 links:
